@@ -45,57 +45,19 @@ RISK_COLORS = {"Low": "#2e7d32", "Medium": "#f9a825", "High": "#c62828"}
 RISK_ORDER = {"High": 3, "Medium": 2, "Low": 1}
 
 # Custom CSS for hospital-style UI
-st.markdown("""
-    <style>
-    .main-header {
-        text-align: center;
-        padding: 2rem 0;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        border-radius: 10px;
-        margin-bottom: 2rem;
-    }
-    .main-header h1 {
-        color: white;
-        font-size: 3rem;
-        margin: 0;
-    }
-    .main-header p {
-        color: #f0f0f0;
-        font-size: 1.2rem;
-    }
-    .nav-button {
-        padding: 2rem;
-        border-radius: 10px;
-        text-align: center;
-        cursor: pointer;
-        transition: transform 0.3s;
-    }
-    .nav-button:hover {
-        transform: scale(1.05);
-    }
-    .risk-badge {
-        padding: 10px 20px;
-        border-radius: 8px;
-        font-weight: bold;
-        font-size: 1.2rem;
-        display: inline-block;
-        margin: 10px 0;
-    }
-    .metric-card {
-        background: white;
-        padding: 1.5rem;
-        border-radius: 10px;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        text-align: center;
-    }
-    .stButton>button {
-        width: 100%;
-        border-radius: 8px;
-        padding: 0.75rem;
-        font-weight: 600;
-    }
-    </style>
-""", unsafe_allow_html=True)
+try:
+    with open("assets/custom.css", "r", encoding="utf-8") as f:
+        css = f.read()
+    st.markdown(f"<style>{css}</style>", unsafe_allow_html=True)
+except Exception:
+    # fallback inline styles
+    st.markdown("""
+        <style>
+        .main-header { text-align: center; padding: 1.5rem 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; margin-bottom: 1rem; }
+        .main-header h1 { color: white; font-size: 2rem; margin: 0; }
+        .risk-badge { padding: 8px 16px; border-radius: 999px; color:white; font-weight:700 }
+        </style>
+    """, unsafe_allow_html=True)
 
 
 # ==========================================
@@ -168,8 +130,17 @@ def _save_to_database(input_data: Dict, prediction: Dict):
 # ==========================================
 def page_home():
     """Home page with navigation"""
-    _display_logo()
-    
+    # header
+    st.markdown(
+        """
+        <div class='header'>
+            <div class='logo-title'><img src='https://raw.githubusercontent.com/github/explore/main/topics/hospital/hospital.png' width='40'/> <h1>AI Smart Triage</h1></div>
+            <div class='subtle'>Real-time risk assessment · Powered by ML</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
     st.markdown("### Welcome to the AI-Powered Healthcare System")
     st.markdown("""
     This system uses machine learning to:
@@ -186,20 +157,20 @@ def page_home():
     
     with col1:
         st.markdown("""
-            <div style='background:#f0f8ff;padding:2rem;border-radius:10px;text-align:center;'>
-                <h2>👤 Patient Portal</h2>
-                <p style='font-size:1.1rem;'>Submit your symptoms and vitals for instant risk assessment</p>
+            <div class='card nav-card'>
+                <h3>👤 Patient Portal</h3>
+                <p>Submit symptoms and vitals for instant risk assessment</p>
             </div>
         """, unsafe_allow_html=True)
         if st.button("🚪 Enter Patient Portal", key="btn_patient", use_container_width=True):
             st.session_state.page = "Patient Portal"
             st.rerun()
-    
+
     with col2:
         st.markdown("""
-            <div style='background:#fff0f5;padding:2rem;border-radius:10px;text-align:center;'>
-                <h2>🏥 Hospital Dashboard</h2>
-                <p style='font-size:1.1rem;'>Monitor patient queue, analytics, and risk distribution</p>
+            <div class='card nav-card'>
+                <h3>🏥 Hospital Dashboard</h3>
+                <p>Monitor patient queue, analytics, and risk distribution</p>
             </div>
         """, unsafe_allow_html=True)
         if st.button("📊 Open Dashboard", key="btn_dashboard", use_container_width=True):
@@ -217,13 +188,22 @@ def page_home():
             "Symptoms", "Condition", "Risk", "Confidence",
             "Department", "Created"
         ])
-        
-        col1, col2, col3, col4 = st.columns(4)
-        col1.metric("Total Patients", len(df_stats))
-        col2.metric("High Risk", len(df_stats[df_stats["Risk"] == "High"]), 
-                   delta="🚨" if len(df_stats[df_stats["Risk"] == "High"]) > 0 else "✅")
-        col3.metric("Medium Risk", len(df_stats[df_stats["Risk"] == "Medium"]))
-        col4.metric("Low Risk", len(df_stats[df_stats["Risk"] == "Low"]))
+
+        # nicer metric cards
+        col1, col2, col3, col4 = st.columns([1.2,1.2,1.2,1.2])
+        total = len(df_stats)
+        high_count = len(df_stats[df_stats["Risk"] == "High"])
+        med_count = len(df_stats[df_stats["Risk"] == "Medium"])
+        low_count = len(df_stats[df_stats["Risk"] == "Low"])
+
+        with col1:
+            st.markdown("<div class='card metric'><div class='value'>%d</div><div class='label'>Total Patients</div></div>" % total, unsafe_allow_html=True)
+        with col2:
+            st.markdown("<div class='card metric'><div class='value' style='color:#c62828'>%d</div><div class='label'>High Risk</div></div>" % high_count, unsafe_allow_html=True)
+        with col3:
+            st.markdown("<div class='card metric'><div class='value' style='color:#f59e0b'>%d</div><div class='label'>Medium Risk</div></div>" % med_count, unsafe_allow_html=True)
+        with col4:
+            st.markdown("<div class='card metric'><div class='value' style='color:#10b981'>%d</div><div class='label'>Low Risk</div></div>" % low_count, unsafe_allow_html=True)
 
 
 # ==========================================

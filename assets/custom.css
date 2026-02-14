@@ -1,0 +1,25 @@
+/* Custom UI improvements for AI Smart Triage System */
+body {
+  font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1.5rem;
+  background: linear-gradient(90deg, #4f46e5 0%, #06b6d4 100%);
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+.logo-title { display:flex; align-items:center; gap:12px }
+.logo-title h1 { margin:0; font-size:1.5rem }
+.subtle { opacity:0.9; font-size:0.95rem }
+.card { background: white; padding: 1rem; border-radius: 10px; box-shadow: 0 6px 18px rgba(16,24,40,0.06); }
+.metric { text-align:center }
+.metric .value { font-size:1.8rem; font-weight:700 }
+.metric .label { color:#6b7280 }
+.nav-card { cursor:pointer; transition: transform 0.18s ease; }
+.nav-card:hover { transform: translateY(-4px) }
+.risk-badge { padding:8px 12px; border-radius:999px; color:white; font-weight:600 }
+.footer { font-size:0.9rem; color:#6b7280; padding-top:0.5rem }
