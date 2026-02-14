@@ -18,7 +18,7 @@ from database import init_db, insert_patient, get_all_patients
 # ==========================================
 # PAGE CONFIGURATION
 # ==========================================
-st.set_page_config(
+st.set_page_config( 
     page_title="AI Smart Triage System",
     page_icon="🏥",
     layout="wide",
@@ -96,6 +96,7 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
+
 
 # ==========================================
 # HELPER FUNCTIONS
@@ -531,3 +532,30 @@ def page_hospital_dashboard():
 # ==========================================
 # NAVIGATION & MAIN APP
 # ==========================================
+
+
+def main():
+    _init_state()
+
+    pages = {
+        "Home": page_home,
+        "Patient Portal": page_patient_portal,
+        "Hospital Dashboard": page_hospital_dashboard,
+    }
+
+    with st.sidebar:
+        st.title("Navigation")
+        selection = st.radio("Go to", list(pages.keys()), index=list(pages.keys()).index(st.session_state.page))
+        st.markdown("---")
+        st.write("AI Smart Triage System")
+
+    # update session state if changed
+    if selection != st.session_state.page:
+        st.session_state.page = selection
+
+    # Render the selected page
+    pages.get(st.session_state.page, page_home)()
+
+
+if __name__ == "__main__":
+    main()
