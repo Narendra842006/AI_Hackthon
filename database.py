@@ -94,11 +94,29 @@ def get_all_patients():
     """Return a list of patient rows formatted for the app display."""
     conn = _get_conn()
     cur = conn.cursor()
-    cur.execute("SELECT * FROM patients ORDER BY created DESC")
+    # Check schema in case older DB lacks 'created' column
+    cur.execute("PRAGMA table_info(patients)")
+    cols_info = cur.fetchall()
+    cols = [c[1] for c in cols_info]
+    if "created" in cols:
+        cur.execute("SELECT * FROM patients ORDER BY created DESC")
+    else:
+        cur.execute("SELECT * FROM patients ORDER BY rowid DESC")
     rows = cur.fetchall()
     result = []
     for r in rows:
-        symptoms = json.loads(r["symptoms"]) if r["symptoms"] else []
+        symptoms = json.loads(r["symptoms"]) if r.get("symptoms") else []
+        created_val = None
+        if "created" in r.keys():
+            created_val = r["created"]
+        else:
+            # try to extract from extra JSON if present
+            try:
+                extra = json.loads(r["extra"]) if r.get("extra") else {}
+                created_val = extra.get("created")
+            except Exception:
+                created_val = None
+
         result.append([
             r["id"],
             r["age"],
@@ -111,7 +129,7 @@ def get_all_patients():
             r["risk"],
             r["confidence"],
             r["department"],
-            r["created"],
+            created_val,
         ])
     conn.close()
     return result
