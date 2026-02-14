@@ -1,0 +1,1201 @@
+Age,Gender,Blood_Pressure,Heart_Rate,Temperature,Symptoms,Pre_Existing_Conditions,Risk_Level
+52,Other,119,80,99.8,Fever,Diabetes,Low
+15,Other,167,125,99.7,Shortness of Breath,None,Medium
+72,Other,95,84,97.5,Cough,Asthma,Low
+61,Male,156,61,101.5,Fever,None,Medium
+21,Female,169,121,102.1,Dizziness,Hypertension,High
+83,Male,96,119,101.7,Shortness of Breath,None,Medium
+87,Other,141,90,98.0,Headache,Asthma,Low
+75,Male,103,79,101.1,Fever,Diabetes,Medium
+75,Other,162,91,101.0,Fever,None,Medium
+88,Other,104,55,103.1,Dizziness,Hypertension,Medium
+24,Male,110,69,99.7,Abdominal Pain,Hypertension,Low
+3,Other,124,91,99.6,Dizziness,Diabetes,Low
+22,Female,155,67,101.3,Fever,None,Medium
+53,Other,91,62,101.4,Shortness of Breath,Asthma,Medium
+2,Female,124,59,100.3,Fatigue,Diabetes,Low
+88,Female,171,114,100.1,Abdominal Pain,None,Medium
+30,Other,167,127,100.5,Dizziness,Heart Disease,High
+38,Male,109,55,103.0,Fatigue,Hypertension,Low
+2,Female,171,90,100.2,Cough,Asthma,Low
+64,Male,99,89,103.6,Dizziness,Asthma,Medium
+60,Female,114,120,100.5,Fever,Asthma,Medium
+21,Other,155,117,103.6,Fatigue,Hypertension,Medium
+33,Other,114,77,102.8,Fever,None,Low
+76,Female,143,63,99.5,Headache,Diabetes,Medium
+58,Other,122,88,103.0,Fatigue,None,Medium
+22,Female,125,100,97.8,Fatigue,Diabetes,Low
+89,Other,103,132,103.5,Dizziness,Asthma,High
+49,Male,154,58,101.4,Fever,None,Medium
+59,Other,169,84,97.4,Cough,Asthma,Low
+42,Male,143,129,101.5,Chest Pain,Heart Disease,High
+60,Other,141,126,103.8,Abdominal Pain,Asthma,Medium
+80,Male,92,57,97.5,Chest Pain,Asthma,Medium
+15,Other,130,68,100.9,Abdominal Pain,Diabetes,Low
+62,Male,95,114,102.2,Cough,Heart Disease,Medium
+62,Female,114,131,102.7,Fatigue,Asthma,Medium
+47,Female,102,99,99.9,Fatigue,Asthma,Low
+62,Male,97,88,98.4,Dizziness,Heart Disease,Medium
+51,Other,110,99,97.3,Headache,Heart Disease,Low
+55,Male,157,115,101.1,Fever,None,Medium
+64,Other,114,137,100.2,Fever,Diabetes,Medium
+3,Female,168,70,103.6,Fever,Heart Disease,High
+51,Other,157,120,97.4,Dizziness,Heart Disease,High
+7,Female,134,94,101.8,Abdominal Pain,Hypertension,Medium
+21,Other,149,71,97.2,Fatigue,Heart Disease,Medium
+73,Other,101,88,98.2,Cough,Diabetes,Low
+39,Other,121,70,100.2,Fever,Asthma,Low
+18,Male,102,114,100.2,Chest Pain,Asthma,Low
+4,Male,120,120,101.8,Fever,Asthma,Medium
+89,Female,167,120,103.4,Fatigue,Asthma,High
+60,Female,109,67,101.5,Dizziness,Hypertension,Medium
+14,Male,107,110,103.7,Cough,Heart Disease,Medium
+9,Female,149,85,103.2,Headache,Asthma,Medium
+53,Male,152,88,101.1,Cough,None,Medium
+2,Other,95,93,102.8,Chest Pain,Asthma,Medium
+84,Female,121,121,101.5,Fever,Heart Disease,High
+60,Female,132,62,97.5,Fever,Asthma,Low
+71,Male,91,132,102.2,Shortness of Breath,Hypertension,High
+44,Female,149,109,97.7,Abdominal Pain,Diabetes,Medium
+8,Female,112,81,101.2,Chest Pain,Diabetes,Medium
+47,Other,172,107,101.9,Shortness of Breath,Heart Disease,High
+35,Female,120,93,97.5,Cough,Diabetes,Low
+78,Other,94,119,98.6,Headache,Diabetes,Medium
+81,Male,172,71,103.4,Abdominal Pain,None,Medium
+36,Female,123,84,101.3,Chest Pain,Heart Disease,Medium
+50,Other,99,107,98.7,Fever,Heart Disease,Medium
+4,Male,178,67,101.8,Cough,Diabetes,Medium
+2,Female,91,75,101.2,Chest Pain,Diabetes,Medium
+6,Male,100,73,100.5,Fever,Diabetes,Low
+54,Female,139,107,103.8,Fatigue,Hypertension,High
+4,Male,120,73,101.8,Abdominal Pain,Asthma,Low
+54,Male,145,111,99.6,Fatigue,Hypertension,Medium
+63,Other,168,79,102.6,Fatigue,Heart Disease,High
+18,Male,162,85,103.2,Fever,None,Medium
+44,Female,176,135,97.9,Headache,Asthma,Medium
+34,Female,172,109,98.4,Cough,None,Medium
+74,Other,98,77,98.5,Dizziness,Heart Disease,Medium
+62,Female,110,86,101.8,Fever,Heart Disease,Medium
+14,Female,162,116,101.2,Headache,None,Medium
+48,Female,117,128,101.3,Dizziness,None,Medium
+15,Male,151,64,103.6,Cough,None,Medium
+72,Male,96,126,102.4,Fatigue,Heart Disease,High
+78,Female,169,108,97.9,Abdominal Pain,Diabetes,High
+87,Other,105,106,99.4,Abdominal Pain,None,Medium
+62,Male,93,74,100.0,Cough,Asthma,Low
+40,Other,93,86,99.8,Cough,Heart Disease,Low
+85,Female,129,68,101.7,Chest Pain,Hypertension,High
+80,Female,106,104,103.2,Headache,Hypertension,High
+82,Male,141,82,99.1,Fatigue,Asthma,Low
+53,Female,141,107,100.9,Headache,Diabetes,Medium
+24,Male,125,78,102.5,Cough,None,Low
+26,Female,127,133,99.9,Shortness of Breath,Heart Disease,Medium
+89,Female,139,76,98.2,Shortness of Breath,None,Medium
+60,Male,152,84,100.3,Dizziness,Heart Disease,Medium
+41,Male,152,117,97.4,Dizziness,Hypertension,Medium
+29,Male,151,58,103.6,Shortness of Breath,None,High
+15,Female,96,131,97.5,Cough,Asthma,Low
+45,Female,116,113,100.1,Cough,Diabetes,Low
+65,Other,175,62,100.7,Dizziness,Asthma,High
+89,Male,103,136,103.9,Fever,Diabetes,High
+71,Female,160,66,98.2,Cough,None,Medium
+9,Female,175,85,97.8,Shortness of Breath,None,Medium
+88,Male,94,132,97.1,Headache,Diabetes,Medium
+1,Other,144,88,98.1,Cough,Hypertension,Low
+8,Male,91,136,98.5,Fatigue,Heart Disease,Medium
+88,Other,151,129,101.4,Cough,Asthma,High
+63,Female,110,130,98.5,Fever,Asthma,Medium
+11,Other,168,103,97.1,Dizziness,Asthma,Medium
+81,Female,110,133,102.8,Cough,None,High
+8,Male,99,111,99.6,Abdominal Pain,Asthma,Low
+35,Male,176,80,99.5,Chest Pain,Heart Disease,High
+35,Male,147,72,99.1,Shortness of Breath,Heart Disease,Medium
+33,Other,128,92,103.8,Fatigue,Diabetes,Low
+5,Female,94,135,98.2,Fatigue,None,Low
+41,Male,154,104,103.3,Fatigue,Heart Disease,High
+28,Male,102,62,102.4,Abdominal Pain,Hypertension,Low
+7,Female,174,95,97.5,Fatigue,None,Low
+73,Male,179,60,103.9,Fatigue,None,High
+72,Female,174,123,98.9,Dizziness,Heart Disease,High
+12,Female,142,98,97.7,Headache,Hypertension,Low
+34,Female,171,118,102.8,Chest Pain,Diabetes,High
+33,Female,134,83,101.9,Abdominal Pain,Heart Disease,Medium
+48,Female,121,82,101.3,Chest Pain,Hypertension,Medium
+23,Other,125,65,98.1,Shortness of Breath,None,Low
+62,Male,170,119,100.3,Dizziness,Hypertension,Medium
+88,Other,149,73,102.5,Cough,None,Medium
+37,Male,100,63,99.1,Headache,Heart Disease,Low
+44,Other,152,81,99.2,Dizziness,Heart Disease,Medium
+86,Female,110,88,97.0,Chest Pain,Asthma,Medium
+35,Male,141,98,98.2,Abdominal Pain,Asthma,Low
+65,Male,144,122,103.1,Shortness of Breath,Asthma,High
+47,Other,115,136,100.1,Shortness of Breath,Heart Disease,High
+78,Other,157,69,103.9,Dizziness,Diabetes,High
+3,Male,123,105,99.8,Cough,Heart Disease,Medium
+1,Other,141,67,102.0,Abdominal Pain,Hypertension,Medium
+5,Other,171,137,99.0,Cough,Heart Disease,Medium
+14,Other,141,103,99.5,Cough,Heart Disease,Medium
+27,Female,118,124,98.3,Fatigue,None,Low
+9,Female,127,110,99.4,Abdominal Pain,None,Low
+79,Other,131,130,100.8,Chest Pain,None,High
+15,Other,110,105,103.9,Dizziness,Heart Disease,Medium
+42,Female,131,91,101.6,Dizziness,Diabetes,Medium
+77,Female,102,71,98.4,Fatigue,Hypertension,Low
+51,Male,153,112,97.3,Fever,Hypertension,Medium
+63,Male,106,83,97.9,Dizziness,Diabetes,Medium
+52,Female,98,87,100.9,Shortness of Breath,Diabetes,Medium
+4,Other,130,114,102.4,Chest Pain,Hypertension,High
+23,Other,90,109,103.6,Abdominal Pain,Asthma,Low
+15,Other,91,64,97.1,Dizziness,None,Low
+43,Other,149,101,100.7,Chest Pain,None,Medium
+29,Male,137,77,100.3,Fatigue,Hypertension,Low
+36,Female,118,139,101.6,Dizziness,Diabetes,Medium
+13,Other,99,75,100.9,Abdominal Pain,Asthma,Low
+32,Male,147,67,101.8,Headache,Hypertension,Medium
+71,Other,149,87,101.6,Abdominal Pain,None,Medium
+59,Female,110,78,97.8,Abdominal Pain,Heart Disease,Medium
+86,Male,117,65,102.6,Abdominal Pain,Diabetes,Medium
+28,Female,164,71,97.9,Dizziness,Heart Disease,Medium
+66,Female,123,122,101.9,Fever,Hypertension,High
+42,Male,97,101,99.9,Abdominal Pain,None,Low
+45,Male,148,79,100.6,Fatigue,Asthma,Low
+62,Male,175,127,103.3,Shortness of Breath,Heart Disease,High
+57,Male,161,75,103.2,Shortness of Breath,Asthma,High
+6,Male,138,138,102.7,Fatigue,None,Medium
+28,Male,168,137,100.6,Chest Pain,Heart Disease,High
+28,Male,106,137,102.2,Fever,Asthma,Medium
+44,Other,149,66,100.6,Chest Pain,Asthma,Medium
+84,Female,176,91,103.1,Fatigue,Heart Disease,High
+30,Male,177,96,99.8,Shortness of Breath,None,Medium
+62,Other,134,71,103.8,Cough,Asthma,Medium
+75,Other,172,102,103.5,Shortness of Breath,Hypertension,High
+89,Other,158,82,102.2,Headache,Heart Disease,High
+62,Female,121,95,99.0,Abdominal Pain,Diabetes,Low
+1,Male,133,101,97.9,Cough,Diabetes,Medium
+27,Other,154,72,103.0,Shortness of Breath,None,High
+62,Female,176,132,98.2,Dizziness,Hypertension,High
+77,Female,97,125,103.0,Dizziness,Asthma,High
+3,Female,166,67,100.4,Chest Pain,Diabetes,Medium
+70,Other,161,136,99.8,Cough,None,Medium
+72,Male,176,67,103.3,Chest Pain,Hypertension,High
+27,Other,132,85,101.2,Abdominal Pain,Hypertension,Low
+9,Other,90,56,101.0,Abdominal Pain,None,Low
+62,Male,140,70,100.9,Headache,None,Low
+37,Male,113,63,99.6,Fatigue,Asthma,Low
+51,Male,113,127,102.5,Fatigue,None,Medium
+44,Female,106,92,98.8,Fever,Asthma,Low
+24,Male,94,129,103.6,Chest Pain,Asthma,High
+79,Other,109,108,103.3,Abdominal Pain,Heart Disease,High
+59,Male,110,110,99.4,Fatigue,Hypertension,Low
+32,Other,147,99,102.1,Chest Pain,Hypertension,High
+88,Female,120,88,101.0,Abdominal Pain,Hypertension,Medium
+52,Other,100,63,99.4,Shortness of Breath,Heart Disease,Medium
+62,Other,141,62,103.9,Chest Pain,Asthma,Medium
+58,Male,104,61,97.2,Shortness of Breath,Asthma,Low
+52,Male,172,90,98.8,Chest Pain,None,Medium
+12,Other,96,72,100.6,Fever,Heart Disease,Medium
+39,Male,117,57,100.7,Headache,None,Low
+2,Female,140,82,101.1,Dizziness,Heart Disease,Medium
+3,Female,147,124,102.3,Fatigue,None,Medium
+56,Male,94,98,101.4,Dizziness,Diabetes,Medium
+81,Female,94,75,101.2,Dizziness,Hypertension,Medium
+59,Male,97,82,97.4,Shortness of Breath,Hypertension,Medium
+2,Other,153,108,99.6,Cough,Asthma,Medium
+2,Other,99,108,98.6,Abdominal Pain,Diabetes,Low
+54,Female,127,119,98.9,Dizziness,Hypertension,Medium
+87,Male,170,75,100.9,Fever,Asthma,High
+1,Male,97,67,98.4,Dizziness,Diabetes,Low
+19,Female,114,111,99.1,Chest Pain,Hypertension,Medium
+2,Other,162,103,98.7,Shortness of Breath,None,Medium
+53,Female,155,108,103.6,Cough,Heart Disease,High
+44,Other,168,64,103.6,Chest Pain,Diabetes,High
+32,Male,139,107,101.3,Cough,Asthma,Medium
+70,Other,156,98,103.5,Chest Pain,Diabetes,High
+32,Female,138,101,102.5,Chest Pain,Asthma,High
+68,Male,125,107,101.1,Fatigue,Diabetes,Medium
+55,Female,157,128,97.0,Headache,Asthma,Medium
+75,Female,167,100,102.4,Headache,Hypertension,High
+56,Other,130,67,101.9,Abdominal Pain,None,Medium
+17,Female,178,91,101.3,Shortness of Breath,Hypertension,Medium
+38,Other,151,78,102.3,Fever,None,Medium
+24,Male,99,56,100.6,Fever,Hypertension,Low
+69,Other,110,135,101.9,Fever,Hypertension,High
+70,Male,125,68,103.5,Fatigue,Diabetes,Medium
+86,Other,101,64,99.6,Chest Pain,Heart Disease,Medium
+11,Female,91,89,102.0,Headache,Asthma,Low
+16,Other,102,79,100.3,Shortness of Breath,Asthma,Low
+73,Other,142,57,101.7,Chest Pain,Asthma,Medium
+59,Male,121,71,102.3,Cough,None,Low
+70,Female,105,66,97.3,Headache,Asthma,Low
+80,Other,121,108,101.5,Headache,Asthma,Medium
+3,Female,121,78,98.6,Dizziness,Diabetes,Low
+20,Other,100,83,101.7,Dizziness,Hypertension,Low
+59,Other,99,97,100.3,Fatigue,Asthma,Low
+36,Female,104,79,102.4,Shortness of Breath,Heart Disease,Medium
+19,Other,106,114,97.9,Cough,Asthma,Low
+67,Female,129,119,101.4,Shortness of Breath,None,Medium
+19,Other,107,138,98.9,Shortness of Breath,None,Medium
+20,Male,144,82,103.0,Fatigue,None,Medium
+71,Female,162,70,103.5,Fatigue,Asthma,Medium
+52,Other,114,101,104.0,Chest Pain,Diabetes,High
+33,Other,148,135,102.6,Abdominal Pain,Heart Disease,High
+40,Male,167,112,102.3,Fatigue,Asthma,Medium
+39,Female,178,130,98.5,Shortness of Breath,Diabetes,High
+82,Other,111,81,99.4,Dizziness,Diabetes,Medium
+1,Male,119,107,100.3,Abdominal Pain,Asthma,Low
+11,Other,173,96,102.4,Chest Pain,Asthma,Medium
+57,Female,174,113,103.4,Abdominal Pain,Diabetes,High
+89,Other,133,101,98.3,Fever,Diabetes,Medium
+50,Other,121,88,103.5,Cough,Diabetes,Medium
+23,Other,140,91,101.9,Abdominal Pain,Asthma,Low
+31,Other,135,60,101.3,Shortness of Breath,Diabetes,Medium
+42,Male,110,61,98.4,Chest Pain,None,Low
+7,Male,121,79,97.4,Cough,Asthma,Low
+16,Female,128,87,101.0,Shortness of Breath,None,Medium
+60,Male,101,109,101.6,Cough,Hypertension,Medium
+2,Male,136,112,98.5,Dizziness,Asthma,Low
+1,Female,107,61,100.9,Fever,Hypertension,Low
+48,Male,110,111,103.0,Dizziness,Diabetes,High
+12,Male,102,66,102.8,Shortness of Breath,Diabetes,Medium
+69,Female,110,70,103.5,Shortness of Breath,Heart Disease,High
+37,Female,97,134,99.6,Shortness of Breath,Diabetes,Medium
+32,Female,135,97,99.2,Headache,Hypertension,Low
+9,Other,96,131,102.2,Fever,Diabetes,High
+19,Other,112,61,100.0,Cough,Asthma,Low
+48,Female,164,105,97.6,Fatigue,Diabetes,Medium
+80,Female,175,127,99.0,Shortness of Breath,Heart Disease,High
+3,Female,111,86,99.9,Shortness of Breath,Diabetes,Medium
+20,Other,178,129,99.0,Cough,Hypertension,Medium
+24,Other,111,62,99.3,Fatigue,Hypertension,Low
+54,Male,118,126,99.1,Dizziness,Diabetes,Medium
+33,Male,102,99,97.3,Dizziness,Hypertension,Low
+24,Female,171,113,101.5,Shortness of Breath,Hypertension,High
+75,Other,91,58,101.2,Chest Pain,Heart Disease,High
+72,Other,118,121,101.6,Headache,Asthma,Medium
+36,Other,174,83,98.3,Dizziness,Heart Disease,Medium
+38,Female,168,83,99.1,Chest Pain,None,Medium
+84,Male,141,82,101.3,Headache,Heart Disease,High
+89,Female,116,131,101.2,Shortness of Breath,Diabetes,High
+25,Male,139,133,100.5,Fever,Asthma,Medium
+18,Male,168,98,99.5,Abdominal Pain,Diabetes,Medium
+82,Female,112,58,103.4,Abdominal Pain,None,Medium
+66,Male,177,63,99.4,Shortness of Breath,Asthma,Medium
+54,Male,133,59,100.2,Dizziness,Hypertension,Medium
+35,Other,166,110,101.7,Chest Pain,Heart Disease,High
+80,Male,111,138,100.8,Fever,Diabetes,High
+61,Female,132,104,99.4,Cough,None,Low
+41,Female,126,129,100.0,Headache,Hypertension,Low
+33,Male,150,69,102.6,Shortness of Breath,Heart Disease,High
+68,Other,145,86,98.9,Fever,Hypertension,Medium
+33,Other,92,82,98.0,Fatigue,Heart Disease,Low
+14,Male,152,76,99.2,Fever,Asthma,Medium
+21,Male,108,71,102.9,Dizziness,Hypertension,Medium
+48,Female,112,113,97.6,Fatigue,Hypertension,Low
+20,Male,118,125,103.9,Headache,Hypertension,Medium
+8,Other,119,111,100.8,Fatigue,Asthma,Low
+7,Male,128,80,103.9,Fever,None,Medium
+67,Female,114,79,103.6,Dizziness,Heart Disease,High
+17,Female,97,64,100.2,Fatigue,Hypertension,Low
+33,Female,147,99,98.4,Chest Pain,Asthma,Medium
+48,Female,105,137,98.2,Dizziness,None,Medium
+76,Female,161,65,98.7,Chest Pain,Heart Disease,High
+59,Male,90,131,102.0,Chest Pain,Asthma,High
+86,Male,94,107,98.9,Fatigue,Heart Disease,Medium
+22,Male,92,126,99.4,Fatigue,Hypertension,Low
+30,Male,154,122,100.1,Cough,None,Medium
+38,Female,93,82,103.4,Cough,Asthma,Low
+51,Other,153,129,98.3,Fever,None,High
+54,Male,178,119,97.0,Dizziness,Hypertension,Medium
+8,Other,99,103,97.4,Cough,None,Low
+27,Male,110,101,103.3,Chest Pain,None,Medium
+27,Male,135,106,101.5,Cough,Diabetes,Medium
+21,Other,116,108,98.9,Headache,None,Low
+30,Female,155,114,98.2,Fever,Heart Disease,Medium
+28,Male,130,111,99.1,Dizziness,Asthma,Low
+64,Male,102,101,97.8,Dizziness,Diabetes,Medium
+69,Male,98,85,103.6,Abdominal Pain,Asthma,Medium
+61,Other,125,100,102.5,Dizziness,Asthma,Medium
+48,Female,175,80,100.2,Fever,Hypertension,Medium
+19,Other,179,59,103.1,Headache,Hypertension,Medium
+4,Other,147,138,98.7,Dizziness,Diabetes,Medium
+35,Female,143,106,102.0,Abdominal Pain,Hypertension,Medium
+64,Other,101,129,103.0,Fever,Hypertension,High
+49,Female,170,108,99.5,Chest Pain,Hypertension,High
+17,Male,167,87,102.3,Shortness of Breath,Asthma,High
+44,Female,103,104,99.1,Shortness of Breath,Diabetes,Medium
+30,Male,123,92,99.1,Chest Pain,Asthma,Low
+46,Other,142,81,97.7,Cough,Heart Disease,Medium
+6,Other,109,69,100.1,Dizziness,Asthma,Low
+37,Male,164,115,102.1,Fatigue,Heart Disease,High
+24,Other,105,75,103.6,Shortness of Breath,None,Medium
+46,Female,159,100,101.2,Cough,None,Medium
+53,Male,145,123,103.0,Shortness of Breath,Heart Disease,High
+60,Other,172,60,102.8,Chest Pain,Heart Disease,High
+63,Male,147,92,98.2,Dizziness,Asthma,Low
+85,Female,93,116,100.4,Dizziness,Heart Disease,High
+32,Female,93,116,97.8,Cough,Diabetes,Low
+87,Other,109,136,101.8,Chest Pain,None,High
+33,Female,99,132,103.6,Cough,None,Medium
+67,Male,113,128,98.0,Dizziness,Heart Disease,High
+18,Female,115,100,102.1,Fatigue,Hypertension,Medium
+25,Male,126,67,101.4,Dizziness,Hypertension,Low
+54,Male,174,57,101.1,Fever,Heart Disease,High
+58,Female,143,60,99.7,Fatigue,Diabetes,Low
+67,Other,110,62,99.5,Cough,Hypertension,Low
+46,Female,163,98,97.3,Fever,Heart Disease,Medium
+24,Male,127,87,98.5,Chest Pain,Diabetes,Low
+32,Male,135,135,97.1,Headache,Diabetes,Medium
+47,Female,93,129,101.1,Shortness of Breath,Asthma,High
+86,Other,149,131,97.7,Fever,Diabetes,High
+23,Other,146,104,103.1,Shortness of Breath,Hypertension,High
+66,Male,134,65,100.7,Abdominal Pain,Hypertension,Medium
+27,Male,109,82,101.9,Chest Pain,Heart Disease,Medium
+2,Other,106,124,99.9,Headache,Heart Disease,Medium
+17,Female,160,95,100.9,Abdominal Pain,Diabetes,Medium
+33,Male,93,70,103.6,Abdominal Pain,None,Low
+9,Male,103,122,97.6,Dizziness,Asthma,Low
+43,Other,92,102,98.8,Abdominal Pain,None,Low
+48,Female,177,110,102.5,Chest Pain,Diabetes,High
+39,Other,169,118,97.7,Fever,Diabetes,Medium
+42,Female,147,113,97.5,Chest Pain,None,Medium
+26,Female,144,116,99.5,Fever,Asthma,Low
+50,Female,93,130,97.6,Abdominal Pain,None,Low
+25,Male,113,65,101.1,Abdominal Pain,Heart Disease,Low
+24,Other,123,72,98.6,Fatigue,Hypertension,Low
+13,Other,119,73,103.3,Headache,Heart Disease,Medium
+60,Female,171,109,102.5,Fever,Hypertension,High
+7,Male,108,136,101.9,Abdominal Pain,Diabetes,Medium
+57,Male,120,80,101.3,Dizziness,Asthma,Low
+36,Other,149,60,103.0,Fatigue,None,Medium
+45,Male,149,58,98.6,Shortness of Breath,Asthma,Medium
+20,Male,108,83,103.1,Fatigue,None,Low
+65,Female,138,113,102.5,Headache,Heart Disease,High
+8,Male,152,71,102.2,Chest Pain,Heart Disease,High
+16,Female,172,97,100.9,Headache,None,Medium
+14,Other,111,134,98.7,Shortness of Breath,Asthma,Medium
+76,Male,113,120,100.0,Fatigue,None,Medium
+87,Other,165,88,102.6,Fever,Diabetes,High
+15,Other,119,62,97.2,Chest Pain,Heart Disease,Medium
+66,Male,147,67,102.5,Chest Pain,Diabetes,High
+32,Male,120,62,98.7,Fever,Heart Disease,Low
+87,Other,153,119,98.0,Cough,Heart Disease,High
+63,Male,108,97,97.8,Cough,Hypertension,Low
+86,Female,137,93,97.2,Headache,Diabetes,Medium
+51,Female,134,135,100.7,Abdominal Pain,Diabetes,Medium
+25,Male,144,113,98.5,Cough,Hypertension,Low
+58,Other,144,138,103.9,Headache,Asthma,Medium
+63,Male,107,98,101.0,Cough,Diabetes,Low
+62,Male,152,63,98.0,Shortness of Breath,None,Medium
+22,Other,136,91,101.8,Dizziness,Hypertension,Medium
+58,Other,164,128,103.3,Abdominal Pain,Diabetes,High
+58,Female,146,90,102.2,Headache,Asthma,Medium
+86,Other,134,82,97.5,Dizziness,Diabetes,Medium
+49,Female,122,96,103.3,Dizziness,Heart Disease,Medium
+52,Other,106,97,102.6,Fatigue,None,Low
+42,Male,159,139,98.1,Cough,Hypertension,Medium
+70,Female,93,96,97.4,Fatigue,Heart Disease,Medium
+15,Female,109,120,100.9,Fever,Asthma,Medium
+54,Female,136,109,98.1,Shortness of Breath,Heart Disease,High
+60,Male,104,126,102.8,Shortness of Breath,Heart Disease,High
+8,Male,159,102,99.5,Shortness of Breath,Asthma,Medium
+53,Male,136,76,103.4,Abdominal Pain,Heart Disease,High
+60,Male,167,81,101.0,Chest Pain,Hypertension,High
+5,Male,164,121,98.3,Abdominal Pain,Diabetes,Medium
+68,Female,98,67,98.0,Headache,Heart Disease,Medium
+6,Male,179,99,101.0,Dizziness,Hypertension,Medium
+47,Female,105,64,102.3,Dizziness,Diabetes,Medium
+55,Male,158,63,102.5,Fatigue,Diabetes,High
+40,Other,150,108,98.9,Chest Pain,Heart Disease,High
+52,Female,99,81,98.4,Headache,Hypertension,Low
+16,Other,139,88,97.1,Chest Pain,Heart Disease,Medium
+13,Female,92,55,101.8,Dizziness,Asthma,Low
+30,Other,166,86,97.5,Cough,Diabetes,Low
+19,Male,159,125,99.9,Abdominal Pain,Heart Disease,High
+17,Male,170,121,101.2,Shortness of Breath,Diabetes,High
+63,Male,140,138,103.6,Dizziness,Hypertension,High
+19,Female,108,74,99.2,Fever,None,Low
+58,Other,131,89,98.7,Shortness of Breath,Heart Disease,High
+55,Male,124,132,101.6,Dizziness,Heart Disease,High
+62,Other,135,71,101.3,Abdominal Pain,Diabetes,Medium
+23,Other,115,72,99.3,Chest Pain,Hypertension,Low
+9,Male,158,99,103.5,Cough,Asthma,Medium
+12,Male,153,138,102.9,Cough,Hypertension,High
+1,Other,126,107,98.6,Shortness of Breath,Heart Disease,Medium
+58,Male,173,136,98.7,Abdominal Pain,Asthma,Medium
+1,Male,138,122,100.6,Cough,Hypertension,Medium
+34,Male,110,119,102.4,Cough,None,Medium
+48,Female,163,55,97.3,Headache,Diabetes,Medium
+89,Other,153,112,101.9,Fever,Hypertension,High
+1,Other,94,80,101.5,Shortness of Breath,Hypertension,Medium
+16,Female,159,74,98.6,Chest Pain,None,Medium
+61,Other,179,64,101.8,Cough,Heart Disease,Medium
+64,Male,93,113,103.6,Headache,Diabetes,Medium
+63,Other,128,129,97.3,Abdominal Pain,Hypertension,Medium
+69,Male,124,95,99.2,Cough,Asthma,Low
+22,Female,90,59,100.1,Fatigue,Hypertension,Low
+67,Male,113,119,103.3,Fever,Diabetes,High
+76,Other,146,71,103.7,Chest Pain,Hypertension,High
+26,Other,159,76,100.1,Abdominal Pain,None,Low
+16,Other,130,95,102.3,Abdominal Pain,Hypertension,Medium
+51,Female,143,122,100.7,Shortness of Breath,Hypertension,High
+86,Female,135,123,100.8,Cough,Asthma,High
+57,Other,149,65,98.9,Shortness of Breath,None,Medium
+29,Male,149,110,98.5,Chest Pain,None,Medium
+78,Female,146,105,99.0,Fatigue,Hypertension,Medium
+69,Other,120,75,100.9,Cough,Asthma,Medium
+47,Other,173,130,97.2,Dizziness,Hypertension,High
+62,Female,113,80,103.4,Cough,Hypertension,Medium
+69,Female,178,73,98.1,Fatigue,Diabetes,Medium
+76,Female,125,114,98.5,Dizziness,Diabetes,Medium
+16,Male,174,125,100.6,Abdominal Pain,Asthma,Medium
+48,Male,119,101,102.0,Shortness of Breath,Heart Disease,High
+85,Other,113,125,97.7,Fever,Diabetes,High
+39,Female,119,80,99.2,Cough,Heart Disease,Low
+33,Male,175,94,103.8,Fever,None,Medium
+23,Female,96,59,98.8,Cough,Diabetes,Low
+10,Other,124,75,99.2,Abdominal Pain,Diabetes,Low
+69,Male,144,132,102.9,Shortness of Breath,Asthma,High
+34,Male,103,58,97.4,Chest Pain,Heart Disease,Medium
+52,Male,99,77,100.3,Chest Pain,Diabetes,Medium
+10,Other,169,138,99.7,Chest Pain,Diabetes,High
+19,Female,105,69,99.2,Cough,Asthma,Low
+58,Male,143,62,99.0,Cough,Asthma,Low
+1,Other,178,95,97.6,Fever,Heart Disease,Medium
+69,Female,166,73,99.2,Shortness of Breath,None,High
+4,Other,159,100,97.3,Fatigue,None,Medium
+16,Female,133,82,102.5,Cough,Hypertension,Medium
+24,Other,162,122,99.8,Shortness of Breath,Diabetes,High
+80,Female,134,69,100.1,Fever,Heart Disease,High
+2,Male,145,91,103.3,Cough,Diabetes,Medium
+32,Female,173,55,101.6,Chest Pain,Heart Disease,High
+84,Other,171,121,97.1,Chest Pain,Heart Disease,High
+24,Other,146,78,103.6,Abdominal Pain,Heart Disease,Medium
+12,Female,110,81,98.7,Dizziness,Diabetes,Low
+50,Male,157,94,97.8,Headache,Asthma,Medium
+35,Male,139,117,102.4,Fatigue,Diabetes,Medium
+33,Female,122,115,100.5,Dizziness,Heart Disease,Medium
+33,Female,96,90,100.0,Cough,Hypertension,Low
+61,Other,159,78,98.7,Shortness of Breath,None,Medium
+51,Male,104,78,100.8,Cough,Heart Disease,Medium
+43,Female,171,58,98.9,Shortness of Breath,Hypertension,Medium
+12,Male,121,121,103.3,Shortness of Breath,Asthma,High
+67,Female,164,88,98.5,Dizziness,Heart Disease,High
+65,Female,109,111,103.2,Headache,Hypertension,Medium
+33,Male,177,103,100.9,Abdominal Pain,Heart Disease,Medium
+40,Female,104,107,102.8,Dizziness,Diabetes,Medium
+74,Female,137,77,102.0,Headache,Hypertension,High
+43,Other,160,123,101.9,Chest Pain,Diabetes,High
+44,Female,110,107,99.3,Chest Pain,Diabetes,Medium
+29,Female,131,116,98.6,Shortness of Breath,Hypertension,Medium
+13,Female,115,95,98.5,Fever,None,Low
+12,Other,103,111,103.0,Cough,Hypertension,Medium
+46,Male,146,114,102.7,Cough,None,Medium
+2,Other,126,108,100.1,Shortness of Breath,Heart Disease,Medium
+35,Other,147,124,97.9,Fever,Heart Disease,High
+87,Male,110,111,99.7,Fatigue,Hypertension,Medium
+81,Other,171,64,101.3,Headache,Heart Disease,High
+8,Male,158,94,100.2,Fatigue,Asthma,Low
+26,Other,92,61,102.5,Fatigue,Diabetes,Medium
+74,Male,176,92,104.0,Chest Pain,Diabetes,High
+34,Female,179,139,98.3,Fatigue,None,Medium
+7,Other,126,115,100.2,Cough,Heart Disease,Medium
+68,Other,177,138,100.0,Dizziness,None,High
+58,Other,138,57,99.1,Fever,Diabetes,Medium
+75,Other,108,105,98.4,Headache,Diabetes,Medium
+29,Female,178,101,97.5,Chest Pain,Heart Disease,High
+36,Other,174,122,103.2,Fatigue,Asthma,Medium
+89,Female,101,130,99.9,Dizziness,Asthma,Medium
+21,Female,150,92,100.5,Fever,Heart Disease,High
+36,Female,130,90,103.4,Shortness of Breath,Heart Disease,High
+10,Female,122,95,102.4,Shortness of Breath,None,Medium
+73,Male,139,123,97.9,Shortness of Breath,Heart Disease,High
+24,Male,157,67,101.0,Cough,Asthma,Medium
+64,Other,160,112,100.1,Headache,Heart Disease,High
+49,Male,175,104,102.6,Shortness of Breath,None,High
+36,Male,122,84,102.1,Cough,None,Low
+82,Other,170,116,101.8,Abdominal Pain,None,Medium
+24,Other,113,79,99.4,Cough,None,Low
+23,Other,150,81,102.6,Chest Pain,Hypertension,High
+62,Male,150,105,97.4,Cough,Heart Disease,High
+37,Male,117,132,98.1,Headache,Diabetes,Medium
+12,Other,147,111,99.3,Dizziness,Heart Disease,Medium
+55,Female,132,101,97.5,Fatigue,Hypertension,Medium
+13,Other,130,93,98.6,Cough,None,Low
+23,Female,128,70,102.8,Shortness of Breath,Hypertension,Medium
+89,Female,175,76,103.6,Chest Pain,Asthma,High
+30,Other,138,139,99.1,Fever,Asthma,Medium
+17,Other,106,108,98.9,Shortness of Breath,Heart Disease,Medium
+62,Other,159,75,99.0,Chest Pain,Heart Disease,High
+84,Male,159,126,98.9,Abdominal Pain,Diabetes,High
+89,Female,154,70,97.3,Fatigue,Diabetes,Medium
+86,Male,163,113,103.5,Fever,Asthma,High
+13,Male,174,85,98.5,Abdominal Pain,None,Low
+59,Other,94,96,99.9,Dizziness,Hypertension,Low
+19,Male,91,128,97.1,Chest Pain,Diabetes,Medium
+49,Other,111,86,103.0,Abdominal Pain,Diabetes,Medium
+12,Female,146,113,102.1,Fatigue,None,Medium
+61,Other,155,88,103.6,Fatigue,None,Medium
+19,Male,163,63,102.5,Dizziness,Heart Disease,High
+76,Male,105,135,99.2,Fatigue,Hypertension,Medium
+9,Other,140,65,98.7,Chest Pain,None,Low
+71,Other,128,64,101.9,Chest Pain,Diabetes,Medium
+28,Male,175,71,99.5,Fatigue,Diabetes,Medium
+78,Female,165,122,101.0,Abdominal Pain,Asthma,High
+52,Female,177,102,97.0,Chest Pain,None,Medium
+83,Other,129,106,97.4,Shortness of Breath,Heart Disease,High
+16,Female,127,79,100.7,Fatigue,Hypertension,Low
+69,Male,149,75,101.0,Chest Pain,Heart Disease,High
+12,Other,148,119,102.3,Headache,Diabetes,Medium
+25,Male,99,117,97.9,Dizziness,Heart Disease,Medium
+52,Male,153,105,100.6,Fatigue,Diabetes,Medium
+85,Female,152,90,98.4,Chest Pain,Diabetes,High
+53,Other,138,135,97.7,Headache,Diabetes,Medium
+23,Other,153,120,99.9,Chest Pain,Diabetes,High
+16,Female,121,69,98.1,Chest Pain,Diabetes,Medium
+57,Male,96,93,98.6,Abdominal Pain,Asthma,Low
+39,Male,110,124,99.2,Shortness of Breath,Heart Disease,High
+53,Male,109,55,98.8,Fatigue,Asthma,Low
+42,Male,115,77,97.6,Dizziness,Asthma,Low
+58,Other,157,93,97.6,Fatigue,None,Low
+39,Other,175,111,98.4,Shortness of Breath,None,Medium
+14,Female,104,135,97.4,Fever,None,Low
+5,Female,174,88,101.4,Abdominal Pain,Hypertension,Medium
+35,Other,168,95,99.0,Abdominal Pain,None,Low
+87,Other,175,127,99.0,Shortness of Breath,Heart Disease,High
+75,Male,103,67,99.3,Cough,Asthma,Low
+18,Male,116,124,101.6,Abdominal Pain,Heart Disease,Medium
+76,Female,129,60,103.1,Fatigue,None,Medium
+9,Other,147,138,102.3,Shortness of Breath,Hypertension,High
+74,Female,117,106,102.1,Abdominal Pain,Hypertension,Medium
+58,Other,115,57,100.4,Chest Pain,Asthma,Medium
+17,Male,152,135,101.9,Shortness of Breath,Heart Disease,High
+7,Female,155,117,100.9,Shortness of Breath,Diabetes,High
+46,Female,114,103,98.5,Fatigue,Heart Disease,Medium
+13,Other,92,130,98.5,Headache,None,Low
+40,Male,161,101,99.1,Abdominal Pain,Diabetes,Medium
+42,Female,133,109,103.4,Abdominal Pain,Hypertension,Medium
+9,Male,131,118,100.8,Shortness of Breath,Asthma,Medium
+50,Female,95,119,102.1,Chest Pain,Asthma,Medium
+27,Male,128,135,99.4,Chest Pain,Hypertension,Medium
+66,Other,141,121,99.9,Dizziness,None,High
+5,Female,112,69,97.9,Chest Pain,Hypertension,Low
+29,Female,178,86,98.2,Abdominal Pain,None,Low
+37,Male,139,122,102.8,Cough,Diabetes,Medium
+38,Male,132,72,101.1,Headache,Hypertension,Medium
+83,Female,108,137,99.4,Shortness of Breath,None,High
+8,Other,158,97,102.6,Fever,Diabetes,Medium
+65,Male,140,89,98.7,Headache,Hypertension,Medium
+86,Male,100,132,103.8,Fatigue,Asthma,Medium
+17,Male,101,112,99.4,Fatigue,Hypertension,Low
+71,Female,163,87,99.4,Cough,Heart Disease,Medium
+89,Female,97,68,99.2,Fever,Hypertension,Medium
+45,Female,113,88,97.9,Headache,Heart Disease,Low
+4,Female,130,115,97.8,Chest Pain,Diabetes,Medium
+36,Other,125,58,101.5,Abdominal Pain,Hypertension,Low
+70,Other,174,113,103.1,Cough,Diabetes,High
+31,Female,161,83,102.5,Fever,Diabetes,Medium
+19,Other,144,137,98.0,Cough,None,Low
+61,Male,98,60,100.8,Headache,Diabetes,Medium
+54,Male,136,103,97.7,Abdominal Pain,Diabetes,Medium
+39,Male,104,94,97.3,Cough,Hypertension,Low
+74,Female,137,137,101.6,Fever,Hypertension,High
+19,Male,171,119,100.7,Shortness of Breath,Asthma,Medium
+39,Other,131,123,97.6,Headache,None,Low
+67,Female,149,81,97.2,Shortness of Breath,Diabetes,Medium
+45,Other,173,134,103.9,Chest Pain,None,High
+13,Male,159,60,97.2,Shortness of Breath,Heart Disease,High
+58,Male,101,67,100.1,Shortness of Breath,Diabetes,Medium
+20,Male,91,118,100.5,Dizziness,None,Low
+72,Female,96,116,97.8,Headache,Asthma,Medium
+61,Other,169,73,98.2,Chest Pain,Asthma,Medium
+39,Female,92,130,99.5,Shortness of Breath,Diabetes,Medium
+1,Female,92,134,102.3,Fatigue,Heart Disease,Medium
+3,Male,116,97,100.5,Abdominal Pain,Asthma,Low
+77,Female,129,128,101.5,Fever,Asthma,Medium
+62,Female,122,74,103.9,Shortness of Breath,Heart Disease,High
+63,Male,90,122,102.4,Chest Pain,None,High
+25,Female,97,98,100.0,Shortness of Breath,Asthma,Low
+56,Male,121,77,100.1,Fever,Hypertension,Medium
+33,Male,137,56,101.3,Chest Pain,Asthma,Medium
+38,Male,93,76,101.7,Headache,None,Low
+6,Male,159,111,100.5,Chest Pain,None,Medium
+58,Female,108,126,101.5,Headache,Diabetes,Medium
+44,Male,121,61,97.2,Chest Pain,Hypertension,Medium
+45,Male,98,132,100.0,Fatigue,None,Low
+32,Female,101,110,99.0,Cough,Heart Disease,Low
+45,Female,100,121,97.9,Fever,Hypertension,Medium
+61,Other,135,70,97.7,Fever,Hypertension,Medium
+47,Female,105,137,101.2,Chest Pain,Heart Disease,High
+21,Female,90,105,100.7,Cough,Asthma,Low
+80,Other,152,136,98.8,Shortness of Breath,Heart Disease,High
+85,Female,110,134,100.3,Fever,Heart Disease,High
+75,Female,119,126,100.4,Fatigue,Asthma,Medium
+36,Female,102,66,98.4,Headache,Asthma,Low
+19,Female,123,107,101.6,Headache,Asthma,Low
+20,Other,93,129,102.5,Abdominal Pain,Asthma,Medium
+57,Female,117,59,102.5,Dizziness,Asthma,Medium
+18,Female,148,81,101.2,Cough,Heart Disease,Medium
+47,Other,116,66,100.6,Dizziness,Diabetes,Medium
+49,Male,158,71,97.4,Dizziness,Diabetes,Medium
+14,Other,114,60,99.0,Headache,None,Low
+15,Male,92,59,97.7,Fatigue,Diabetes,Low
+31,Other,157,111,103.7,Fatigue,Diabetes,High
+1,Other,114,82,97.9,Abdominal Pain,Heart Disease,Low
+54,Female,109,132,98.1,Dizziness,Asthma,Medium
+3,Male,123,123,103.2,Dizziness,Asthma,Medium
+16,Female,115,113,103.6,Chest Pain,Heart Disease,High
+87,Male,94,87,102.4,Chest Pain,Diabetes,High
+57,Other,150,116,97.0,Chest Pain,Heart Disease,High
+75,Other,98,104,97.0,Shortness of Breath,None,Medium
+12,Male,139,73,99.6,Dizziness,Asthma,Low
+74,Female,95,123,98.0,Fatigue,Hypertension,Medium
+16,Female,172,120,97.1,Fatigue,None,Medium
+72,Female,149,101,100.2,Shortness of Breath,None,Medium
+76,Female,133,93,103.6,Fatigue,Heart Disease,High
+24,Other,100,122,99.3,Abdominal Pain,Diabetes,Medium
+28,Other,155,87,101.6,Cough,Asthma,Low
+8,Other,136,67,101.6,Headache,Hypertension,Low
+36,Other,162,138,98.8,Dizziness,None,Medium
+8,Other,174,108,101.6,Fatigue,Hypertension,Medium
+58,Female,177,61,98.5,Headache,Diabetes,Medium
+60,Female,175,133,97.9,Fatigue,Diabetes,High
+50,Female,92,68,101.9,Cough,Hypertension,Low
+28,Female,165,73,97.8,Chest Pain,Asthma,Medium
+41,Other,119,108,104.0,Dizziness,Diabetes,Medium
+64,Other,179,74,98.3,Fever,Hypertension,Medium
+27,Other,110,83,101.2,Shortness of Breath,None,Medium
+63,Male,117,78,99.9,Shortness of Breath,Hypertension,Medium
+17,Female,179,136,97.9,Dizziness,Hypertension,Medium
+73,Female,151,117,97.2,Cough,Heart Disease,High
+33,Other,122,128,101.4,Chest Pain,Diabetes,Medium
+84,Female,174,111,102.6,Shortness of Breath,Asthma,High
+77,Female,124,62,102.9,Chest Pain,Asthma,Medium
+29,Other,141,116,100.4,Abdominal Pain,Heart Disease,Medium
+13,Male,123,83,102.4,Headache,Asthma,Low
+46,Male,130,128,101.7,Cough,Hypertension,Medium
+35,Male,140,71,102.1,Fever,Heart Disease,Medium
+6,Other,136,120,100.4,Headache,None,Medium
+82,Female,171,60,101.4,Headache,Diabetes,Medium
+69,Other,147,112,102.6,Abdominal Pain,Diabetes,High
+47,Other,164,123,99.8,Shortness of Breath,Diabetes,High
+25,Female,146,82,102.6,Fever,Hypertension,Medium
+66,Male,112,116,101.1,Shortness of Breath,None,Medium
+10,Male,137,95,98.2,Dizziness,Heart Disease,Medium
+56,Other,111,123,97.2,Headache,Heart Disease,Medium
+30,Male,106,136,99.5,Dizziness,Diabetes,Medium
+5,Other,158,138,100.8,Chest Pain,None,High
+33,Other,100,95,102.9,Headache,None,Low
+65,Female,104,103,97.9,Shortness of Breath,None,Medium
+18,Female,124,103,102.6,Headache,Asthma,Low
+49,Female,122,130,103.0,Chest Pain,Asthma,High
+11,Other,173,125,98.1,Abdominal Pain,Diabetes,Medium
+85,Female,105,57,103.0,Dizziness,None,Medium
+26,Male,123,64,103.9,Fatigue,None,Low
+63,Male,155,89,102.1,Dizziness,Heart Disease,High
+89,Other,129,134,102.5,Shortness of Breath,Heart Disease,High
+86,Other,117,56,104.0,Headache,Diabetes,Medium
+59,Female,136,78,101.2,Shortness of Breath,None,Medium
+27,Other,128,128,99.2,Abdominal Pain,Diabetes,Medium
+49,Other,159,92,102.9,Headache,Heart Disease,High
+77,Male,162,76,101.3,Fatigue,Heart Disease,High
+33,Male,109,80,101.1,Headache,Asthma,Low
+1,Female,90,97,98.8,Fatigue,Diabetes,Low
+21,Other,161,109,102.3,Shortness of Breath,Diabetes,High
+55,Other,176,93,97.6,Shortness of Breath,None,Medium
+6,Male,152,83,103.5,Chest Pain,None,High
+81,Other,156,74,99.3,Cough,Asthma,Medium
+69,Male,93,95,97.9,Cough,Hypertension,Low
+5,Female,147,108,100.1,Abdominal Pain,Hypertension,Low
+3,Male,114,74,97.3,Cough,Hypertension,Low
+53,Other,136,73,101.8,Chest Pain,Diabetes,Medium
+23,Female,127,138,103.3,Dizziness,Diabetes,Medium
+53,Male,104,120,102.9,Fatigue,Heart Disease,High
+37,Male,152,84,97.9,Headache,Diabetes,Medium
+74,Female,110,107,97.9,Shortness of Breath,Diabetes,High
+74,Female,146,88,102.7,Headache,Diabetes,High
+83,Male,142,76,103.5,Headache,Asthma,Medium
+17,Other,135,121,100.2,Fever,Diabetes,Medium
+85,Male,103,60,100.5,Dizziness,None,Medium
+78,Female,165,133,99.2,Fever,None,High
+73,Male,106,81,103.3,Cough,Heart Disease,High
+1,Female,128,64,101.5,Headache,Asthma,Low
+51,Female,98,127,99.0,Fatigue,None,Low
+45,Other,166,102,99.1,Shortness of Breath,Asthma,Medium
+77,Female,168,124,103.2,Fatigue,Asthma,High
+4,Female,171,113,97.1,Headache,Heart Disease,Medium
+62,Other,95,113,99.3,Dizziness,Asthma,Low
+65,Female,112,56,100.9,Fatigue,Diabetes,Medium
+32,Other,148,83,98.0,Fever,Asthma,Low
+34,Other,135,122,97.6,Shortness of Breath,Heart Disease,High
+72,Female,127,119,102.7,Headache,Heart Disease,High
+39,Female,103,137,103.3,Abdominal Pain,Heart Disease,Medium
+26,Male,161,80,102.8,Dizziness,None,Medium
+34,Other,151,64,103.3,Dizziness,Diabetes,Medium
+54,Male,124,107,100.9,Abdominal Pain,None,Low
+3,Female,108,133,102.7,Fatigue,Hypertension,Medium
+50,Male,119,113,99.7,Headache,Diabetes,Low
+12,Other,167,76,101.7,Dizziness,Asthma,Medium
+65,Male,173,105,103.9,Shortness of Breath,Heart Disease,High
+54,Other,114,102,98.6,Headache,Hypertension,Low
+5,Female,129,75,99.7,Headache,Diabetes,Low
+57,Female,177,76,100.4,Fever,None,Medium
+17,Other,103,84,98.0,Dizziness,Heart Disease,Medium
+47,Female,115,79,97.6,Dizziness,None,Low
+23,Female,176,82,102.8,Abdominal Pain,Diabetes,Medium
+79,Female,111,119,103.8,Fever,Diabetes,High
+85,Female,137,99,99.8,Fatigue,Hypertension,Medium
+14,Other,172,122,97.6,Cough,Asthma,Medium
+66,Male,140,61,97.5,Fatigue,None,Low
+75,Male,92,103,103.2,Fatigue,Hypertension,Medium
+51,Female,131,63,100.2,Fever,Heart Disease,Medium
+38,Male,108,90,99.2,Dizziness,Asthma,Low
+64,Male,162,137,100.3,Headache,Hypertension,High
+38,Female,117,55,99.2,Fever,None,Low
+50,Female,173,64,100.4,Abdominal Pain,Diabetes,Medium
+82,Male,134,90,103.0,Fever,Heart Disease,High
+30,Other,160,127,101.1,Abdominal Pain,None,Medium
+79,Female,167,100,101.9,Fatigue,Asthma,Medium
+51,Other,152,86,99.6,Cough,Asthma,Low
+63,Male,162,86,102.2,Fever,Diabetes,High
+52,Female,108,60,101.7,Abdominal Pain,Diabetes,Low
+38,Other,136,102,97.8,Fever,Heart Disease,Medium
+88,Female,103,92,101.0,Cough,Heart Disease,Medium
+79,Male,127,71,98.8,Fatigue,Diabetes,Medium
+30,Other,142,128,102.6,Fever,Diabetes,High
+51,Male,150,81,100.0,Shortness of Breath,Asthma,Medium
+81,Male,125,108,104.0,Abdominal Pain,Diabetes,Medium
+5,Female,129,104,97.6,Cough,Hypertension,Low
+29,Other,170,89,102.5,Abdominal Pain,None,Medium
+4,Male,119,139,101.7,Abdominal Pain,Diabetes,Medium
+10,Male,98,79,102.4,Chest Pain,Heart Disease,Medium
+56,Other,153,82,99.2,Cough,Hypertension,Medium
+17,Male,122,69,100.4,Fever,Heart Disease,Medium
+74,Male,141,58,102.6,Abdominal Pain,Hypertension,High
+17,Other,178,127,98.6,Dizziness,Diabetes,High
+84,Other,103,81,98.6,Chest Pain,None,Medium
+88,Other,164,80,100.9,Shortness of Breath,Heart Disease,High
+69,Other,142,73,100.7,Abdominal Pain,Hypertension,Medium
+34,Female,148,71,99.0,Fatigue,Asthma,Low
+6,Other,167,97,99.1,Abdominal Pain,Diabetes,Low
+53,Female,130,95,98.9,Chest Pain,None,Medium
+66,Female,157,96,102.4,Fever,Diabetes,High
+77,Female,157,104,101.6,Dizziness,Asthma,High
+43,Male,97,138,102.8,Fatigue,None,Medium
+75,Female,91,94,103.8,Shortness of Breath,Asthma,Medium
+23,Female,175,93,100.3,Fatigue,Diabetes,Medium
+55,Male,130,77,97.5,Abdominal Pain,Hypertension,Medium
+80,Male,144,106,97.3,Fever,Diabetes,Medium
+75,Male,105,101,99.1,Cough,Diabetes,Medium
+16,Other,151,117,103.5,Dizziness,Diabetes,High
+8,Male,137,123,100.7,Cough,Heart Disease,Medium
+4,Male,119,97,98.9,Dizziness,Asthma,Low
+4,Female,101,102,99.8,Shortness of Breath,Asthma,Low
+56,Male,124,88,101.2,Headache,Asthma,Low
+25,Other,100,94,101.6,Dizziness,Heart Disease,Medium
+67,Male,153,129,98.1,Headache,Hypertension,High
+67,Other,139,115,103.8,Cough,Diabetes,High
+27,Male,174,104,100.8,Dizziness,Hypertension,Medium
+32,Male,110,121,97.9,Shortness of Breath,Heart Disease,Medium
+50,Male,158,116,103.3,Chest Pain,Asthma,High
+61,Male,137,112,97.5,Shortness of Breath,Diabetes,Medium
+51,Other,109,87,103.4,Shortness of Breath,None,Medium
+19,Other,156,129,104.0,Chest Pain,None,High
+21,Female,133,70,101.9,Chest Pain,Hypertension,Medium
+5,Other,122,136,102.4,Fever,Asthma,Medium
+82,Male,162,102,99.4,Dizziness,None,High
+42,Female,150,64,103.6,Cough,Hypertension,Medium
+61,Female,98,136,100.7,Fever,Heart Disease,High
+22,Female,157,92,102.1,Chest Pain,Hypertension,High
+21,Male,124,73,103.5,Headache,Hypertension,Low
+70,Other,170,90,103.8,Cough,Hypertension,High
+1,Male,177,113,102.8,Headache,Diabetes,Medium
+5,Female,154,117,99.1,Shortness of Breath,Hypertension,Medium
+12,Male,97,131,103.8,Abdominal Pain,Hypertension,Medium
+46,Male,134,100,101.4,Shortness of Breath,Diabetes,High
+34,Other,176,57,103.5,Shortness of Breath,Diabetes,High
+49,Other,136,128,101.7,Abdominal Pain,Heart Disease,High
+78,Female,129,119,99.2,Dizziness,Asthma,Medium
+45,Male,165,62,99.6,Chest Pain,None,Medium
+27,Male,143,105,100.9,Headache,None,Low
+73,Other,165,135,102.5,Shortness of Breath,Hypertension,High
+26,Male,135,127,99.2,Abdominal Pain,Heart Disease,Medium
+47,Male,136,60,101.1,Fever,Hypertension,Medium
+86,Male,104,93,99.4,Shortness of Breath,None,Medium
+56,Other,108,114,102.7,Headache,Diabetes,Medium
+63,Female,115,82,100.3,Chest Pain,Asthma,Low
+48,Female,141,108,97.5,Shortness of Breath,Heart Disease,High
+61,Male,111,91,98.2,Shortness of Breath,Diabetes,Medium
+81,Female,110,63,97.4,Dizziness,Asthma,Medium
+26,Other,140,136,100.5,Fatigue,Heart Disease,High
+36,Other,127,110,97.7,Abdominal Pain,Heart Disease,Low
+1,Female,109,113,97.8,Fever,None,Low
+8,Female,118,139,103.6,Fever,Diabetes,High
+52,Male,140,56,103.1,Cough,Heart Disease,Medium
+79,Female,93,115,100.2,Chest Pain,Heart Disease,High
+47,Male,144,112,103.9,Cough,Asthma,Medium
+56,Male,160,114,97.0,Headache,None,Medium
+86,Other,117,94,101.3,Chest Pain,Hypertension,Medium
+14,Other,93,90,101.3,Shortness of Breath,None,Low
+28,Other,111,91,100.2,Fatigue,Hypertension,Low
+87,Other,165,133,99.8,Shortness of Breath,Diabetes,High
+78,Female,134,72,100.2,Fever,Diabetes,Medium
+88,Other,156,117,99.9,Headache,Heart Disease,High
+2,Female,175,76,102.1,Abdominal Pain,Diabetes,Medium
+26,Other,155,65,97.9,Headache,Heart Disease,Medium
+14,Female,177,112,98.4,Shortness of Breath,None,Medium
+59,Male,123,111,98.3,Abdominal Pain,Diabetes,Low
+56,Female,144,131,98.8,Headache,None,Medium
+7,Female,90,58,100.7,Fatigue,None,Low
+3,Other,161,61,97.8,Fatigue,Diabetes,Low
+23,Female,176,115,103.1,Headache,None,Medium
+18,Male,127,108,99.1,Abdominal Pain,Diabetes,Low
+38,Male,95,122,98.1,Shortness of Breath,Diabetes,Medium
+15,Other,175,133,101.7,Headache,Diabetes,Medium
+64,Male,114,55,97.3,Abdominal Pain,Hypertension,Low
+89,Female,171,109,101.3,Dizziness,None,High
+28,Male,106,57,101.9,Fatigue,Asthma,Low
+74,Other,150,132,98.5,Dizziness,Diabetes,High
+39,Female,101,92,97.3,Shortness of Breath,None,Low
+57,Other,95,55,99.5,Abdominal Pain,Heart Disease,Medium
+17,Female,179,92,97.7,Dizziness,Diabetes,Medium
+86,Male,116,139,97.8,Abdominal Pain,Diabetes,Medium
+44,Other,97,83,98.8,Headache,Asthma,Low
+25,Other,172,59,99.1,Shortness of Breath,Hypertension,Medium
+17,Female,154,128,100.7,Dizziness,Hypertension,High
+13,Other,146,75,101.7,Cough,Diabetes,Medium
+84,Female,129,125,101.1,Headache,None,Medium
+25,Female,103,121,98.0,Fatigue,Heart Disease,Medium
+68,Female,124,101,98.2,Cough,Heart Disease,Medium
+10,Female,137,138,103.2,Cough,None,Medium
+67,Male,173,137,100.9,Chest Pain,Diabetes,High
+18,Female,145,89,103.1,Chest Pain,Heart Disease,High
+86,Other,138,122,99.6,Shortness of Breath,Hypertension,High
+34,Male,102,123,101.3,Dizziness,None,Medium
+8,Other,150,55,100.7,Dizziness,Asthma,Medium
+40,Male,138,122,99.2,Dizziness,Diabetes,Medium
+83,Female,135,66,100.3,Abdominal Pain,None,Medium
+42,Male,151,114,100.5,Headache,Heart Disease,Medium
+41,Male,97,81,98.4,Dizziness,Diabetes,Low
+6,Other,132,110,99.2,Headache,Hypertension,Low
+52,Other,109,77,102.5,Shortness of Breath,Diabetes,Medium
+26,Female,179,79,103.4,Cough,Diabetes,Medium
+64,Male,128,75,99.5,Dizziness,Hypertension,Low
+59,Male,174,115,99.1,Shortness of Breath,Hypertension,High
+56,Male,138,117,98.4,Dizziness,Diabetes,Medium
+59,Female,153,106,101.7,Chest Pain,Hypertension,High
+70,Female,151,79,99.3,Fever,None,Medium
+33,Female,143,109,103.9,Shortness of Breath,Hypertension,High
+53,Female,98,100,99.3,Dizziness,Hypertension,Medium
+22,Female,177,86,99.8,Fatigue,Diabetes,Low
+21,Other,126,109,101.2,Fever,None,Medium
+70,Male,138,59,102.6,Shortness of Breath,Asthma,High
+70,Male,130,90,100.3,Fatigue,Asthma,Medium
+4,Male,106,103,100.0,Fatigue,Heart Disease,Low
+75,Male,177,112,104.0,Abdominal Pain,Hypertension,High
+62,Male,110,93,97.1,Fatigue,Hypertension,Low
+62,Male,140,134,103.3,Dizziness,None,High
+24,Male,148,139,98.0,Abdominal Pain,Asthma,Medium
+55,Male,128,115,102.5,Chest Pain,Heart Disease,High
+9,Other,144,63,101.3,Dizziness,None,Low
+3,Male,130,60,99.4,Cough,Hypertension,Low
+31,Other,128,89,103.1,Fatigue,Asthma,Low
+40,Female,102,93,97.1,Chest Pain,Heart Disease,Medium
+36,Male,153,76,98.6,Fever,Diabetes,Medium
+24,Female,100,95,101.0,Shortness of Breath,Asthma,Low
+6,Female,108,59,99.5,Fatigue,Heart Disease,Low
+66,Female,100,96,101.3,Headache,None,Low
+84,Other,166,135,97.2,Chest Pain,Diabetes,High
+75,Female,135,130,97.8,Headache,Heart Disease,High
+4,Female,134,134,97.9,Fatigue,Heart Disease,Medium
+79,Female,90,121,98.3,Headache,Hypertension,Medium
+6,Male,129,84,100.2,Fatigue,Asthma,Low
+51,Male,108,111,102.3,Shortness of Breath,Hypertension,High
+62,Other,165,127,103.3,Fever,Diabetes,High
+57,Other,161,83,102.8,Shortness of Breath,Heart Disease,High
+66,Male,161,91,98.4,Dizziness,Hypertension,Medium
+79,Other,150,67,100.1,Chest Pain,Asthma,Medium
+75,Male,101,86,98.4,Headache,Diabetes,Low
+8,Female,150,100,98.9,Shortness of Breath,None,Medium
+26,Female,122,77,100.5,Fatigue,Hypertension,Low
+51,Other,134,99,97.5,Shortness of Breath,Diabetes,Medium
+45,Male,179,71,98.5,Shortness of Breath,None,Medium
+44,Male,158,139,103.5,Chest Pain,Hypertension,High
+5,Other,97,120,100.3,Fever,Diabetes,Medium
+70,Male,114,60,100.1,Cough,Diabetes,Low
+26,Female,135,72,97.1,Shortness of Breath,Hypertension,Medium
+68,Other,176,76,98.7,Chest Pain,Diabetes,High
+19,Other,119,87,103.1,Headache,Heart Disease,Medium
+84,Male,136,84,98.2,Fatigue,Hypertension,Medium
+20,Other,176,135,99.9,Dizziness,Diabetes,Medium
+12,Male,138,86,97.1,Cough,None,Low
+47,Male,136,96,100.3,Abdominal Pain,None,Low
+1,Male,173,132,97.1,Cough,Heart Disease,Medium
+14,Male,171,64,102.7,Fatigue,Hypertension,Medium
+64,Male,107,90,102.8,Cough,Diabetes,Medium
+38,Other,155,88,102.5,Fatigue,Diabetes,Medium
+37,Female,157,127,99.0,Chest Pain,None,Medium
+11,Female,122,82,102.9,Abdominal Pain,Heart Disease,Medium
+77,Other,125,65,100.8,Shortness of Breath,None,Medium
+3,Other,171,132,99.6,Shortness of Breath,None,Medium
+33,Female,108,93,101.4,Cough,Heart Disease,Low
+6,Female,117,101,97.1,Chest Pain,Hypertension,Medium
+50,Female,129,73,98.0,Abdominal Pain,Diabetes,Low
+10,Female,173,69,102.2,Shortness of Breath,Hypertension,High
+5,Female,165,82,98.7,Headache,Asthma,Low
+23,Male,104,78,101.2,Fever,Asthma,Low
+10,Other,130,126,99.7,Fever,Asthma,Medium
+44,Male,128,63,103.0,Shortness of Breath,Heart Disease,High
+2,Female,91,101,103.7,Abdominal Pain,None,Medium
+13,Female,152,87,103.2,Dizziness,Hypertension,Medium
+40,Female,118,116,98.9,Shortness of Breath,Diabetes,Medium
+2,Male,163,73,98.4,Dizziness,Asthma,Low
+84,Male,155,121,100.3,Dizziness,Hypertension,High
+65,Female,140,128,97.1,Fatigue,Asthma,Medium
+63,Male,164,94,97.2,Fatigue,Asthma,Low
+73,Male,166,101,100.9,Abdominal Pain,Diabetes,High
+17,Female,99,119,100.6,Dizziness,Heart Disease,Medium
+9,Male,103,83,104.0,Headache,None,Low
+75,Other,171,104,98.4,Abdominal Pain,Heart Disease,High
+15,Other,140,67,98.8,Shortness of Breath,Hypertension,Medium
+24,Other,162,55,97.8,Cough,Heart Disease,Medium
+38,Other,128,88,103.4,Headache,Hypertension,Medium
+35,Female,117,102,102.4,Chest Pain,Hypertension,Medium
+49,Female,92,131,102.8,Fever,None,High
+69,Female,173,102,103.3,Shortness of Breath,Diabetes,High
+62,Other,159,103,100.7,Shortness of Breath,None,High
+60,Other,116,118,100.2,Shortness of Breath,Heart Disease,Medium
+50,Male,91,115,99.3,Headache,Hypertension,Low
+78,Male,127,83,101.1,Chest Pain,Asthma,Medium
+75,Other,92,93,100.2,Cough,Asthma,Low
+9,Other,105,80,100.2,Abdominal Pain,Hypertension,Low
+34,Other,129,71,103.6,Fatigue,None,Low
+76,Other,91,125,103.9,Chest Pain,Diabetes,High
+35,Male,170,67,102.6,Headache,None,Medium
+1,Other,130,123,102.3,Shortness of Breath,Hypertension,High
+40,Male,101,80,101.8,Fever,Hypertension,Medium
+64,Other,124,103,98.2,Shortness of Breath,Diabetes,Medium
+22,Other,154,121,97.4,Abdominal Pain,Heart Disease,Medium
+60,Other,144,61,101.8,Dizziness,Heart Disease,Medium
+64,Male,134,112,102.1,Fever,Diabetes,High
+72,Male,168,103,97.3,Shortness of Breath,Heart Disease,High
+11,Female,179,107,103.5,Cough,Asthma,Medium
+14,Other,174,119,97.6,Fever,Heart Disease,Medium
+60,Female,151,116,99.0,Dizziness,Heart Disease,High
+30,Female,138,71,101.7,Fatigue,Heart Disease,Medium
+35,Male,114,97,98.2,Chest Pain,Asthma,Low
+85,Male,112,79,97.4,Headache,Heart Disease,Medium
+37,Female,113,57,99.3,Fatigue,Asthma,Low
+5,Other,127,133,102.4,Shortness of Breath,Diabetes,High
+83,Male,117,83,99.9,Abdominal Pain,None,Low
+78,Other,110,86,101.6,Chest Pain,Diabetes,Medium
+26,Other,143,80,101.1,Fatigue,None,Low
+62,Female,107,70,97.2,Shortness of Breath,Diabetes,Medium
+4,Female,125,79,103.9,Chest Pain,None,Medium
+89,Female,134,108,97.3,Fatigue,None,Medium
+42,Female,162,82,103.8,Abdominal Pain,Hypertension,Medium
+89,Male,142,127,100.8,Shortness of Breath,None,High
+18,Male,119,110,103.7,Dizziness,None,Medium
+40,Female,149,119,97.8,Dizziness,Hypertension,Medium
+72,Male,121,134,100.4,Abdominal Pain,Heart Disease,High
+39,Female,156,95,98.2,Fever,Heart Disease,Medium
+14,Other,156,105,97.4,Abdominal Pain,Hypertension,Medium
+32,Other,117,125,101.3,Fever,Asthma,Medium
+51,Other,133,132,98.5,Shortness of Breath,None,High
+38,Female,168,83,101.1,Fatigue,None,Low
+23,Other,130,137,97.8,Fever,Hypertension,Medium
+63,Male,152,73,99.3,Shortness of Breath,Hypertension,Medium
+15,Other,112,120,102.5,Shortness of Breath,Asthma,Medium
+25,Other,164,95,100.1,Cough,Heart Disease,Medium
+17,Other,137,99,101.4,Headache,Diabetes,Medium
+66,Male,121,69,101.5,Shortness of Breath,Heart Disease,High
+78,Female,146,57,102.9,Fever,None,Medium
+53,Male,122,65,99.3,Headache,Hypertension,Low
+51,Female,113,107,101.8,Headache,Asthma,Medium
+39,Female,128,100,103.7,Shortness of Breath,Heart Disease,High
+51,Other,123,84,102.1,Abdominal Pain,Asthma,Medium
+70,Female,145,111,100.4,Abdominal Pain,Heart Disease,High
+6,Male,117,72,101.4,Dizziness,None,Low
+67,Male,126,105,102.2,Headache,Diabetes,Medium
+7,Female,96,102,101.3,Shortness of Breath,Asthma,Medium
+51,Other,157,120,97.1,Cough,Asthma,Medium
+72,Other,126,62,98.4,Abdominal Pain,Diabetes,Low
+42,Male,145,76,102.7,Cough,Asthma,Low
+64,Other,154,60,98.9,Shortness of Breath,Asthma,Medium
+15,Female,154,130,102.1,Shortness of Breath,Heart Disease,High
+29,Female,136,111,99.6,Fatigue,Heart Disease,Medium
+33,Male,109,90,100.7,Headache,Diabetes,Low
+27,Female,108,133,97.5,Fatigue,None,Low
+36,Male,118,111,98.3,Cough,Asthma,Low
+29,Female,163,103,103.7,Fatigue,None,Medium
+38,Male,149,99,103.2,Dizziness,Diabetes,Medium
+57,Other,107,136,101.6,Headache,Diabetes,Medium
+27,Female,124,120,100.2,Chest Pain,Heart Disease,Medium
+55,Female,132,131,101.7,Fatigue,Asthma,Medium
+33,Male,100,99,101.3,Cough,Hypertension,Low
+68,Male,138,133,101.0,Abdominal Pain,Diabetes,High
+86,Female,127,74,97.4,Abdominal Pain,Asthma,Low
+66,Male,153,118,101.4,Abdominal Pain,None,Medium
+10,Female,158,121,102.4,Fever,Heart Disease,High
+5,Other,97,137,104.0,Shortness of Breath,None,Medium
+74,Male,123,57,97.1,Headache,Diabetes,Medium
+38,Female,137,108,102.1,Abdominal Pain,Diabetes,Medium
+13,Other,145,132,101.0,Chest Pain,None,Medium
+31,Other,165,118,100.0,Abdominal Pain,Diabetes,Medium
+47,Female,154,94,97.9,Dizziness,Asthma,Medium
+88,Male,120,113,99.9,Shortness of Breath,Diabetes,High
+52,Female,93,109,99.5,Cough,Heart Disease,Medium
+56,Other,139,116,99.1,Shortness of Breath,Asthma,Medium
+15,Female,158,58,102.1,Fatigue,Hypertension,Medium
+29,Male,119,114,101.9,Cough,Diabetes,Medium
+8,Other,177,129,101.1,Cough,Diabetes,Medium
+5,Female,148,84,103.6,Fatigue,Heart Disease,Medium
+29,Male,156,56,99.4,Headache,Heart Disease,Medium
+47,Other,164,116,98.7,Fatigue,None,Medium
+68,Male,134,103,101.6,Fever,None,High
+76,Other,93,63,98.4,Cough,None,Low
+45,Female,115,85,99.2,Cough,Heart Disease,Low
+2,Male,116,115,98.6,Fatigue,None,Low
+27,Other,135,133,97.5,Headache,None,Medium
+36,Male,153,102,102.8,Abdominal Pain,Hypertension,High
+36,Male,140,79,98.8,Dizziness,None,Low
+26,Female,139,90,100.3,Chest Pain,Diabetes,Medium
+43,Male,95,62,97.3,Headache,Heart Disease,Low
+27,Other,148,127,101.9,Fever,Asthma,Medium
+69,Other,104,112,99.3,Headache,Hypertension,Medium
+20,Other,119,99,102.2,Shortness of Breath,Heart Disease,Medium
+11,Other,131,116,99.9,Abdominal Pain,Heart Disease,Medium
+74,Female,126,93,98.4,Abdominal Pain,Diabetes,Low
+38,Male,131,112,100.6,Cough,None,Low
+6,Female,124,135,97.9,Abdominal Pain,Diabetes,Medium
+72,Male,176,137,100.1,Abdominal Pain,None,Medium
+23,Male,95,118,99.2,Fatigue,None,Low
+47,Male,157,98,103.4,Abdominal Pain,Heart Disease,High
+46,Female,107,83,97.4,Abdominal Pain,None,Low
+12,Male,162,113,101.9,Chest Pain,Hypertension,High
+13,Female,118,125,98.3,Fever,Hypertension,Medium
+62,Other,166,63,99.2,Cough,Hypertension,Medium
+82,Other,148,60,99.9,Fatigue,Heart Disease,Medium
+89,Male,136,83,103.4,Abdominal Pain,Diabetes,Medium
+60,Female,106,112,98.7,Cough,Asthma,Low
+43,Other,111,71,97.6,Fever,None,Low
+76,Female,157,70,99.2,Fatigue,Asthma,Medium
+68,Female,158,57,97.7,Dizziness,Diabetes,Medium
+5,Male,126,75,97.9,Abdominal Pain,Diabetes,Low
+37,Other,138,118,101.0,Cough,Heart Disease,Medium
+72,Male,102,90,97.4,Headache,Hypertension,Medium
+31,Male,123,116,97.2,Fatigue,Hypertension,Low
+9,Other,175,96,102.0,Fatigue,Diabetes,Medium
+51,Other,142,130,99.5,Cough,Heart Disease,High
+29,Female,176,96,97.9,Abdominal Pain,Heart Disease,Medium
+78,Other,140,115,98.8,Shortness of Breath,None,Medium
+40,Female,92,67,101.5,Chest Pain,Hypertension,Medium
+41,Female,131,65,98.9,Headache,Diabetes,Low
+86,Female,121,108,100.5,Headache,Asthma,Medium
+11,Other,140,70,97.9,Shortness of Breath,Hypertension,Medium
+23,Male,174,62,101.1,Abdominal Pain,None,Low
+1,Female,135,113,99.2,Fatigue,Heart Disease,Medium
+46,Male,110,111,101.4,Fatigue,Diabetes,Medium
+21,Male,133,94,102.7,Chest Pain,Hypertension,Medium
+36,Other,100,113,101.3,Headache,Asthma,Low
+54,Male,157,56,99.1,Chest Pain,None,Medium
+87,Male,90,130,98.8,Headache,None,Medium
+57,Other,152,64,99.3,Abdominal Pain,Hypertension,Medium
+1,Female,113,98,98.2,Dizziness,Asthma,Low
+63,Male,102,65,98.3,Headache,None,Low
+54,Other,100,133,102.5,Dizziness,Diabetes,High
+55,Male,140,134,99.7,Headache,None,Medium
+40,Male,106,135,100.1,Fatigue,Asthma,Low
+15,Female,171,56,101.2,Fever,Heart Disease,Medium
+21,Male,175,104,101.1,Abdominal Pain,Heart Disease,Medium
+47,Other,113,66,97.5,Shortness of Breath,Hypertension,Medium
+73,Male,108,77,102.8,Dizziness,Asthma,Medium
+53,Female,126,72,98.2,Shortness of Breath,None,Low
+9,Female,174,116,102.1,Abdominal Pain,None,Medium
+74,Other,97,116,102.4,Cough,Heart Disease,High
+52,Female,117,92,102.0,Shortness of Breath,Heart Disease,High
+57,Male,94,121,101.1,Abdominal Pain,Diabetes,Medium
+26,Female,106,92,97.1,Fatigue,Heart Disease,Low
+41,Other,125,121,99.5,Shortness of Breath,Diabetes,Medium
+35,Female,108,115,101.2,Dizziness,None,Medium
+63,Female,153,55,99.7,Fever,Diabetes,Medium
+25,Female,100,99,103.0,Shortness of Breath,Diabetes,Medium
+75,Other,143,82,99.2,Dizziness,Hypertension,Medium
+38,Female,134,75,99.1,Headache,Heart Disease,Low
+2,Female,136,67,98.9,Abdominal Pain,Diabetes,Low
+7,Male,101,81,99.3,Chest Pain,None,Low
+82,Other,110,61,100.9,Cough,Asthma,Low
+34,Female,100,76,101.9,Fatigue,Diabetes,Low
+17,Other,94,128,101.6,Chest Pain,Heart Disease,High
+43,Female,170,107,102.7,Fatigue,Hypertension,Medium
+59,Female,145,133,103.2,Abdominal Pain,None,Medium
+51,Female,109,133,102.7,Fatigue,Hypertension,High
+54,Male,130,58,97.1,Fever,Asthma,Medium
+24,Male,135,77,102.2,Shortness of Breath,Diabetes,Medium
+25,Male,101,124,98.5,Fever,Diabetes,Medium
+71,Other,159,138,97.9,Chest Pain,Heart Disease,High
+52,Other,106,138,101.5,Cough,Diabetes,Medium
+70,Male,108,130,99.2,Dizziness,None,Medium
+88,Other,115,87,97.4,Cough,Asthma,Low
+33,Female,137,82,98.0,Abdominal Pain,Hypertension,Low
+49,Female,141,62,97.0,Abdominal Pain,Asthma,Low
+29,Female,159,55,103.3,Fever,Diabetes,High
+63,Male,144,91,97.2,Dizziness,Hypertension,Medium
+22,Other,164,117,98.5,Fever,Heart Disease,High
+26,Male,122,76,99.9,Shortness of Breath,Asthma,Low
+28,Other,151,124,99.5,Headache,Hypertension,Medium
+85,Female,177,75,103.4,Dizziness,Hypertension,High
+49,Male,112,89,97.3,Headache,Hypertension,Low
+71,Other,104,133,100.6,Cough,None,Medium
+81,Other,116,59,101.8,Shortness of Breath,Asthma,Medium
+84,Female,164,114,103.5,Fatigue,Hypertension,High
+49,Male,153,100,101.3,Fatigue,Asthma,Medium
+20,Male,170,104,102.6,Headache,Hypertension,Medium
+86,Male,140,102,97.6,Chest Pain,Heart Disease,High
+63,Female,142,60,99.7,Cough,Heart Disease,Medium
+61,Male,167,110,99.6,Headache,Heart Disease,High
+49,Female,171,113,103.2,Shortness of Breath,Diabetes,High
+71,Female,140,83,98.1,Headache,Hypertension,Medium
+1,Female,136,125,98.1,Abdominal Pain,Diabetes,Medium
+13,Other,93,131,99.3,Fever,Asthma,Low
+87,Male,96,72,97.4,Chest Pain,Diabetes,Medium
+51,Male,124,56,98.3,Abdominal Pain,Asthma,Low
+56,Female,137,62,103.8,Abdominal Pain,Asthma,Medium
+83,Female,162,129,100.0,Shortness of Breath,Asthma,High
+62,Male,161,108,101.4,Fever,Diabetes,High
+32,Female,134,92,102.1,Fever,Hypertension,Medium
+30,Male,170,102,99.6,Dizziness,Diabetes,Medium
+29,Other,170,81,98.0,Cough,Hypertension,Low
+49,Female,161,74,98.4,Chest Pain,Hypertension,Medium
+45,Male,108,66,99.2,Cough,Asthma,Low
+30,Female,152,97,101.5,Shortness of Breath,Diabetes,Medium
+16,Male,127,115,99.8,Chest Pain,Hypertension,Medium
+40,Male,156,85,97.0,Dizziness,Heart Disease,Medium
+19,Female,148,115,100.7,Headache,Hypertension,Medium
+18,Other,158,128,103.5,Abdominal Pain,Heart Disease,High
+1,Male,102,121,102.7,Chest Pain,Diabetes,High
+78,Male,136,89,102.8,Cough,Diabetes,Medium
+47,Male,150,69,102.6,Abdominal Pain,Diabetes,Medium
+66,Other,120,70,99.3,Shortness of Breath,Hypertension,Medium
+38,Other,169,67,102.4,Cough,None,Medium
+51,Female,111,89,98.0,Headache,Hypertension,Low
+63,Other,175,129,101.6,Shortness of Breath,Hypertension,High
+4,Female,132,113,101.5,Fatigue,Asthma,Low
+1,Female,156,75,97.2,Headache,Asthma,Low
+8,Other,143,108,102.5,Headache,Hypertension,Medium
+29,Female,99,129,103.3,Abdominal Pain,Heart Disease,Medium
+55,Other,131,84,98.9,Shortness of Breath,Asthma,Medium
+3,Female,153,102,102.7,Shortness of Breath,Hypertension,High
+32,Other,110,89,97.6,Chest Pain,None,Low
+10,Other,169,92,101.2,Cough,Heart Disease,Medium
+74,Female,165,85,100.4,Fatigue,Diabetes,High
+83,Male,155,132,100.8,Shortness of Breath,Hypertension,High
+34,Female,130,78,103.5,Chest Pain,Hypertension,High
+87,Other,113,103,103.1,Fatigue,Heart Disease,High
+55,Male,124,86,102.5,Fever,Asthma,Medium
+32,Female,145,109,98.9,Fever,Asthma,Low
+50,Female,119,133,103.4,Fatigue,Asthma,Medium
+7,Female,146,112,97.7,Fever,Diabetes,Medium
+8,Male,136,57,103.0,Dizziness,Heart Disease,High
+65,Other,124,134,99.3,Shortness of Breath,Heart Disease,High
+57,Female,108,123,97.4,Dizziness,Asthma,Medium
+67,Female,97,139,101.7,Cough,Asthma,Medium
